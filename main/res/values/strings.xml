@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LostAndFound</string>
+    <!-- Other string resources -->
+    <string name="google_maps_key">AIzaSyDTVZqH2bS1cq5kbeHWJgvvedtsHrSZOx0</string>
+</resources>
